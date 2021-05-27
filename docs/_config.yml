@@ -30,10 +30,11 @@ twitter_username: jekyllrb
 github_username:  jekyll
 
 # Build settings
-markdown:kramdown
-jekyll-remote-theme: starry99/catbook
+markdown: kramdown
+remote_theme: starry99/catbook
 plugins:
   - jekyll-feed
+  - jekyll-remote-theme
 
 # Exclude from processing.
 # The following items will not be processed, by default.
