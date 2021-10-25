@@ -22,7 +22,7 @@ user:
   pic: /assets/img/cat.jpg
   picAlt: "catbook"
   job: Human factors, ergonomics, and HCI
-  message: chenyue0923@tsinghua.edu.cn
+  message: chenyue0923@gmail.com
   aboutme: true # comment this out if you don't need the 'about' page.
 
 exclude:
